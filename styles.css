@@ -1,4 +1,17 @@
-div{
-    background-color: aqua;
-    padding: 20px;
+img{
+    display: block;
+    margin: auto;
+    width: 30%;
+}
+nav ul li a{
+    text-decoration: none;
+}
+nav ul li{
+    list-style: none;
+    display: inline;
+    margin-left: 10px;
+    
+}
+nav ul li:hover{
+    background-color: rgb(255, 0, 191);
 }
